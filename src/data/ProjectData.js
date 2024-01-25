@@ -4,7 +4,7 @@ export const ProjectList = [
     img: "/Calculator.png",
     title: "Calculator",
     description:
-      "A simple calculator app",
+      "This is a calculator web application created with JavaScript, CSS, and HTML.",
     tech_stack: ["HTML", "CSS", "Javascript"],
     github_url: "https://github.com/Paresh1879/Calculator",
     demo_url: "https://calculatorpar3sh.netlify.app/",
@@ -13,7 +13,7 @@ export const ProjectList = [
     img: "/Rememberthecolorgame.png",
     title: "Remember the color game",
     description:
-      "A fun, interactive game, where you should remember the sequence of colors.",
+      "A fun, interactive game, color memory game implemented using JavaScript, CSS, and HTML.",
     tech_stack: ["HTML", "CSS", "Javascript"],
     github_url: "https://github.com/Paresh1879/Remember-the-colour-Game",
     demo_url: "https://rememberthecolorgame.netlify.app",
@@ -22,7 +22,7 @@ export const ProjectList = [
     img: "/youtube.png",
     title: "YoutubeClone",
     description:
-      "A frontend clone of Youtube.",
+      "This project is a YouTube clone web application developed using HTML, JavaScript, and CSSs.",
     tech_stack: ["HTML", "CSS", "Javascript", "API"],
     github_url: "https://github.com/Paresh1879/youtubecloneapi",
     demo_url: "https://par3shyoutubeclone.netlify.app",
@@ -35,17 +35,9 @@ export const ProjectList = [
     tech_stack: [ "Python"],
     github_url: "https://github.com/Paresh1879/SuddenCardiacArrest---Patient-Identification",
     demo_url: "https://colab.research.google.com/drive/1sFIZYXsAvA6UjBL9lB6h0BKQY9mtGCRH?usp=sharing",
-  },
-  {
-    img: "/NeighborhoodWatch.png",
-    title: "Neighborhood Watch",
-    description:
-      "Neighborhood Watch is an application that filters safe neighborhoods based on crime statistics provided by the police department.",
-    tech_stack: ["HTMl", "CSS", "C#", "JSON Parsing", "RestAPI"],
-    github_url: "https://github.com/adityarajs00/IS7024",
-    demo_url: "https://neighborhoodwatch.azurewebsites.net/",
-  },
+  }
 ];
+
 
 // --------------------------------------- Skills
 
